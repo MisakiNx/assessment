@@ -37,7 +37,7 @@ userNameInput.onkeydown=event=>{
 if(event.key==='Enter'){
 assessmentButton.onclick();
  }};
-const answers=['###userName###のいいところは声です','###userName###のいいところはまなざしです','###userName###のいいところはna','###userName###のいいところは'];
+const answers=['###userName###のいいところは声です','###userName###のいいところはまなざしです','###userName###のいいところはna','###userName###のいいところは','###userName###のいいところはやさしさ'];
 
 /**
  * 名前の文字列を渡すと診断結果を返す関数
